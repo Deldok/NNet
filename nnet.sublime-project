@@ -1,0 +1,18 @@
+{
+    "folders":
+    [
+        {
+            "path": ".",
+        }
+    ],
+    "debugger_configurations":
+    [
+        {"name" : "python",
+            "type": "python" ,
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+
+    }
+    ],
+}

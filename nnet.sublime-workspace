@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"einlesen",
+				"einlesenKunden"
+			],
+			[
+				"def",
+				"def main"
+			],
+			[
+				"bas",
+				"basicConfig"
+			],
+			[
+				"bere",
+				"berechne_Abstand"
+			],
+			[
+				"gl_l",
+				"gl_lst_Haeuser"
+			],
+			[
+				"da",
+				"dateiname"
+			],
+			[
+				"pr",
+				"print(\""
+			],
+			[
+				"T",
+				"Tk()"
+			],
+			[
+				"ti",
+				"title(\""
+			],
+			[
+				"ins",
+				"inspect"
+			],
+			[
+				"file",
+				"keyfiles"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"View Package File"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: deb",
+				"Package Control: Disable Debug Mode"
+			],
+			[
+				"Package Control: pyg",
+				"Package Control: Add Repository"
+			],
+			[
+				"vi",
+				"View Package File"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"snippets",
+				"Snippet: XML Stylesheet"
+			],
+			[
+				"Snippet:",
+				"Snippet: CDATA"
+			],
+			[
+				"view ",
+				"View Package File"
+			],
+			[
+				"v",
+				"View Package File"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"mi",
+				"MicroPython: Put File"
+			],
+			[
+				"vie",
+				"View Package File"
+			],
+			[
+				"Mi",
+				"Build With: Microbit"
+			],
+			[
+				"VIE",
+				"View Package File"
+			],
+			[
+				"tabni",
+				"⌬ tabnine: Open Configuration"
+			],
+			[
+				"conf",
+				"⌬ tabnine: Open Configuration"
+			],
+			[
+				" Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Build With: Python-Termininus"
+			],
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"mic",
+				"MicroPython: Put File"
+			],
+			[
+				"python",
+				"Build With: Python-Termininus"
+			],
+			[
+				"terminus",
+				"Build With: Python-Termininus"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"brackethighlighter",
+				"BracketHighlighter: Documentation"
+			],
+			[
+				"TERMINU",
+				"Terminus: Close All"
+			],
+			[
+				"set sy",
+				"Set Syntax: Python"
+			],
+			[
+				"term",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termin",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"termiinus theme",
+				"Terminus Utilities: Generate User Theme"
+			],
+			[
+				"Terminus",
+				"Preferences: Terminal Settings – Default"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 231.0,
+		"history":
+		[
+			"python --ver",
+			"clEAR",
+			"cleR",
+			"help",
+			"hwlp",
+			"python",
+			"version",
+			"clear",
+			"#",
+			"pip install uflash",
+			"import uflash",
+			"ver",
+			"help",
+			"dir -h",
+			"dir",
+			"package",
+			"help dir()",
+			"help dir",
+			"dir(\"uflash\"",
+			"dir(#",
+			"dir(uflash)",
+			"python",
+			"pip3",
+			"pip",
+			"python3 level1.py",
+			"python level1.py"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/abo/Documents/NNet"
+	],
+	"file_history":
+	[
+		"/Users/abo/Documents/NNet/nnet.py",
+		"/Users/abo/Documents/VHS/MAIN.py",
+		"/Users/abo/Documents/NNet/vhs.py",
+		"/Users/abo/Documents/VHS/hilfsfunktionen.py",
+		"/Users/abo/Documents/VHS/vhs.py",
+		"/Users/abo/Documents/Windrad/windrad.py",
+		"/Users/abo/Documents/NNet/data/kunden.txt",
+		"/Users/abo/Documents/NNet/hilfsfunktionen.py",
+		"/Users/abo/Documents/NNet/data/pkw.txt",
+		"/Users/abo/Documents/NNet/data/lkw.txt",
+		"/Users/abo/Documents/NNet/pkw.py",
+		"/Users/abo/Documents/NNet/kundenklasse.py",
+		"/Users/abo/Documents/NNet/kfzklasse.py",
+		"/Users/abo/Documents/NNet/nnet.sublime-project",
+		"/Users/abo/Documents/pytrorch/NNet/nnet.sublime-project",
+		"/Users/abo/Documents/pytrorch/bild.py",
+		"/Users/abo/Documents/pytrorch/torch.sublime-project",
+		"/Users/abo/Documents/Windrad/ch.py",
+		"/Users/abo/Documents/Windrad/Windrad.sublime-project",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/Python.sublime-package",
+		"/Users/abo/Documents/Windrad/Atmosphäre/generate.py",
+		"/Users/abo/Documents/Windrad/data/landkreis0.txt",
+		"/Users/abo/Documents/Windrad/data/landkreis1.txt",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/User/Python-Debug.sublime-build",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/User/Python-Termininus.sublime-build",
+		"/Users/abo/Documents/Windrad/tw.py",
+		"/Users/abo/Documents/Windrad/Gebaeude.py",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/User/snippet/with.sublime-snippet",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/PackageDev/Package/Sublime Text Menu/Snippets/Menu Entry With Children (Long).sublime-snippet",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/Python/Snippets/while.sublime-snippet",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/Python/Snippets/__magic__.sublime-snippet",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/PackageDev/plugins/snippet_dev.py",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/Python/Snippets/Try-Except-Else.sublime-snippet",
+		"/Users/abo/Documents/microbit/main.py",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/User/Microbit.sublime-build",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/ShellScript/.python-version",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/Default/.python-version",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/Python/Console Input Widget.sublime-settings",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/Predawn/icon-examples/config.rb",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/Package Control/package_control/console_write.py",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/Default/Console Input Widget.sublime-settings",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/ActionScript.sublime-package",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/User/TabNine.sublime-settings",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/TabNine/TabNine.sublime-settings",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/User/Python-Bit.sublime-build",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/User/Python:Python-Bit.sublime-build",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/microbit Build System/Micropython.sublime-build",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/microbit Build System/microbit.py",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/MicroPython Tools/micropython.sublime-commands",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/PackageDev/Package/Sublime Text Theme/Completions/Interpolation Keys (in-string).sublime-completions",
+		"/Users/abo/Documents/Python/level1.py",
+		"/Users/abo/Documents/Python/Level1.sublime-project",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/User/BracketGuard.sublime-settings",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/User/Origami.sublime-settings",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/Origami/Origami.sublime-settings",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/Python/Python.sublime-build",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/Anaconda/README.md",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/User/LSP-pyright.sublime-settings",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/LSP-pyright/LSP-pyright.sublime-settings",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/AdvancedNewFile/README.md",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/User/Projects/level1/level2.py",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/User/python-terminus.sublime-build",
+		"/Users/abo/Library/Application Support/Sublime Text/Packages/User/python-t.sublime-build"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python-Termininus.sublime-build",
+	"project": "nnet.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 126.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"myfunc"
+			]
+		],
+		"width": 560.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
